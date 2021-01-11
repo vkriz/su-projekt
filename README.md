@@ -1,1 +1,1 @@
-# Privatni repozitorij za projekt iz strojnog učenja
+# Repozitorij za projekt iz strojnog učenja
